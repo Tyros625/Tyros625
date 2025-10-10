@@ -62,9 +62,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tyros625&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  height="180px"/>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyros625&theme=tokyonight&layout=compact&hide_border=true" height="180px"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tyros625&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
