@@ -55,24 +55,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="60" alt="Jenkins"/>
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/matrix.svg" width="100%"/></p>
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tyros625&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"  height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyros625&theme=tokyonight&layout=compact&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tyros625&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <!-- Animated contribution graph -->
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Tyros625/Tyros625/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
@@ -102,5 +101,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME" alt="Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tyros625" alt="Visitors"/>
 </p>
