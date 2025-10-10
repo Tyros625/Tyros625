@@ -94,20 +94,11 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:2CA5E0,50:25D366,100:D14836" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2CA5E0,50:25D366,100:D14836" width="100%"/>
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient" width="100%"/>
-</p>
 ---
 
-## ✨ Fun Fact
-
-💡 I once built an app that **(insert cool fact)**.
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Tyros625" alt="Visitors"/>
