@@ -70,28 +70,37 @@
 </p>
 
 <!-- Animated contribution graph -->
-<p align="center">
-  <img src="https://github.com/Tyros625/Tyros625/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 ---
 
-## 🔥 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🌐 Find Me
 
----
 
-## 🌐 Find Me Around the Web
+
+<div align="center" style="display:flex; justify-content:center; align-items:center; gap:40px; flex-wrap:nowrap;">
+  <span style="display:flex; align-items:center; gap:8px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3488/3488463.png" height="30" alt="Telegram"/>
+    <b>@TrosHayes</b>
+  </span>
+  <span style="display:flex; align-items:center; gap:8px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" height="30" alt="WhatsApp"/>
+    <b>+1 (762) 374 8396</b>
+  </span>
+  <span style="display:flex; align-items:center; gap:8px;">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email"/>
+    <b>cacurry625@gmail.com</b>
+  </span>
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:2CA5E0,50:25D366,100:D14836" width="100%"/>
 </p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient" width="100%"/>
+</p>
 ---
 
 ## ✨ Fun Fact
