@@ -81,7 +81,7 @@
 <div align="center" style="display:flex; justify-content:center; align-items:center; gap:40px; flex-wrap:nowrap;">
   <span style="display:flex; align-items:center; gap:8px;">
     <img src="https://cdn-icons-png.flaticon.com/512/3488/3488463.png" height="30" alt="Telegram"/>
-    <b>@TyrosHayes</b>
+    <b>@Davichi333</b>
   </span>
   <span style="display:flex; align-items:center; gap:8px;">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" height="30" alt="WhatsApp"/>
