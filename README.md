@@ -85,11 +85,11 @@
   </span>
   <span style="display:flex; align-items:center; gap:8px;">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" height="30" alt="WhatsApp"/>
-    <b>+1 (762) 374 8396</b>
+    <b>+52 951 613 9257</b>
   </span>
   <span style="display:flex; align-items:center; gap:8px;">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" alt="Email"/>
-    <b>cacurry625@gmail.com</b>
+    <b>seturry@gmail.com</b>
   </span>
 </div>
 
