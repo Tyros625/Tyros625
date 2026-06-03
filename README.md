@@ -1,4 +1,4 @@
-# Hi there, I'm Tyros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+# Hi there, I'm David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cloud+Native+Engineer;Open+Source+Nut;Aspiring+Tech+God" alt="Typing SVG" />
